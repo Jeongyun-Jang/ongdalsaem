@@ -17,23 +17,11 @@
 
   <br/>
 
-## Reference 📚
-
-  <br/>
-
-## 🔧 앞으로의 과제
-
-- 앞으로 할 일을
-- 적어주세요
+## 📚 Reference 
 
   <br/>
   
-## To Reviewers 🙏
+## 🙏 To Reviewers
 
   <br/>
   
-## ➕ 이슈 링크
-
-- [레포 이름 #이슈번호](이슈 주소)
-
-<br/>
