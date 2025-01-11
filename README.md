@@ -66,16 +66,12 @@ FEAT: 로그인 기능 추가
 FIX: 로그인 로직 오류 해결
 
 ### 4.2 Push 및 Pull Request
-1.자신의 브랜치로 push:
+- 1.자신의 브랜치로 push:
 ```bash
 git push origin goat_jjy
 ```
 
-GitHub에서 Compare & Pull Request 클릭 후, PR 메세지 작성:
-Commit 메세지를 참고하여 상세히 작성.
-Issue 번호가 있을 경우, Issue #이슈숫자 추가.
-
-2.GitHub에서 Compare & Pull Request 클릭 후, PR 메세지 작성:
+- 2.GitHub에서 Compare & Pull Request 클릭 후, PR 메세지 작성:
 Commit 메세지를 참고하여 상세히 작성.
 Issue 번호가 있을 경우, Issue #이슈숫자
 
