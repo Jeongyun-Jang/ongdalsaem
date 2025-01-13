@@ -22,8 +22,6 @@ git clone [repository 주소]
 ```bash
 git remote add upstream [organization 주소]
 ```
-<br/>
-
 ### 2.2 Repository 설정 확인
 ```bash
 git remote -v
