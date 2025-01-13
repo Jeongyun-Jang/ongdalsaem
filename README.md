@@ -16,12 +16,13 @@
 git clone [repository 주소]
 ```
 <br/>
+
 ## 2. Upstream Repository 추가
 ### 2.1 Organization Repository를 Upstream으로 추가
 ```bash
 git remote add upstream [organization 주소]
 ```
-
+<br/>
 ### 2.2 Repository 설정 확인
 ```bash
 git remote -v
