@@ -5,18 +5,14 @@
 
 # GitHub 협업 가이드
 
-## 1. Branch 생성 및 사용
-### 1.1 Branch 이동
-```bash
-git checkout [suffix]
-```
 
-### 1.2 Branch 확인
+
+## 1. Branch 확인
 작업 전 항상 현재 브랜치를 확인하세요(안그러면 충돌 우려)
 <br/>
 
-## 2. 작업 후 Commit 및 Pull Request
-### 2.1 Commit 메세지 작성
+## . 작업 후 Commit 및 Pull Request
+### 4.1 Commit 메세지 작성
 ```bash
 git add .
 git commit -m "타입: 설명"
@@ -33,9 +29,16 @@ git commit -m "타입: 설명"
 FEAT: 로그인 기능 추가
 FIX: 로그인 로직 오류 해결
 
-### 2.2 Push
-- 1.자신의 원격 브랜치로 push:
+### 4.2 Push 및 Pull Request
+- 1.자신의 브랜치로 push:
 ```bash
-git push origin [suffix]
+git push origin goat_jjy
 ```
 
+- 2.GitHub에서 Compare & Pull Request 클릭 후, PR 메세지 작성:
+Commit 메세지를 참고하여 상세히 작성.
+Issue 번호가 있을 경우, Issue #이슈숫자
+
+### 4.3 Merge 작업 주의
+팀 리더만 Merge 작업을 수행합니다.
+개인적으로 Merge하지 않도록 주의해주세요.
